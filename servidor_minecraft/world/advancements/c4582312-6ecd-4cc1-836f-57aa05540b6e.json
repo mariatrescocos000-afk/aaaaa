@@ -1,0 +1,587 @@
+{
+  "archipelagoadditions:archipelagoadditions/tidal_collector": {
+    "criteria": {
+      "sandwraith": "2026-07-31 17:06:17 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-07-29 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2026-07-29 02:43:24 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2026-08-02 05:35:22 +0000",
+      "sugar_cane": "2026-07-31 15:45:26 +0000",
+      "potato": "2026-08-02 16:54:33 +0000",
+      "wheat": "2026-08-02 16:35:46 +0000",
+      "carrot": "2026-08-02 16:54:31 +0000"
+    },
+    "done": false
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-07-29 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2026-07-29 02:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-08-04 19:20:48 +0000",
+      "minecraft:bee": "2026-08-04 18:21:05 +0000"
+    },
+    "done": false
+  },
+  "archipelagoadditions:dragon_hunter/dragon_hunter_weapons/dragon_hunter_tool": {
+    "criteria": {
+      "crossbow": "2026-07-30 22:04:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2026-07-29 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2026-07-29 02:43:24 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2026-08-04 02:53:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2026-07-29 20:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-07-29 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2026-07-31 17:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/kill_axolotl_target": {
+    "criteria": {
+      "kill_axolotl_target": "2026-08-02 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/dragons/sandwraith": {
+    "criteria": {
+      "requirements": "2026-07-31 17:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2026-08-04 01:12:50 +0000",
+      "minecraft:birch_forest": "2026-07-29 03:12:50 +0000",
+      "minecraft:windswept_hills": "2026-07-29 02:45:16 +0000",
+      "minecraft:wooded_badlands": "2026-08-04 01:31:12 +0000",
+      "minecraft:bamboo_jungle": "2026-08-04 01:31:05 +0000",
+      "minecraft:badlands": "2026-08-04 01:31:14 +0000",
+      "minecraft:savanna_plateau": "2026-07-29 20:02:38 +0000",
+      "minecraft:beach": "2026-07-29 02:58:16 +0000",
+      "minecraft:sparse_jungle": "2026-08-04 01:31:01 +0000",
+      "minecraft:river": "2026-07-29 02:57:51 +0000",
+      "minecraft:lukewarm_ocean": "2026-07-30 21:59:40 +0000",
+      "minecraft:stony_shore": "2026-07-30 22:01:28 +0000",
+      "minecraft:swamp": "2026-08-01 01:44:20 +0000",
+      "minecraft:cold_ocean": "2026-08-02 05:34:02 +0000",
+      "minecraft:forest": "2026-07-29 03:12:17 +0000",
+      "minecraft:deep_cold_ocean": "2026-08-04 01:06:37 +0000",
+      "minecraft:frozen_ocean": "2026-08-02 05:34:03 +0000",
+      "minecraft:deep_frozen_ocean": "2026-08-04 03:33:11 +0000",
+      "minecraft:ocean": "2026-07-29 03:08:30 +0000",
+      "minecraft:jungle": "2026-07-29 03:15:28 +0000",
+      "minecraft:windswept_savanna": "2026-07-29 02:54:41 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-07-30 21:59:43 +0000",
+      "minecraft:old_growth_birch_forest": "2026-07-29 20:11:43 +0000",
+      "minecraft:meadow": "2026-07-29 19:48:14 +0000",
+      "minecraft:windswept_gravelly_hills": "2026-07-29 02:43:37 +0000",
+      "minecraft:savanna": "2026-07-29 20:01:02 +0000",
+      "minecraft:plains": "2026-07-29 02:43:24 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2026-08-04 01:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-07-29 03:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-07-30 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2026-07-29 02:43:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-29 02:56:40 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/dragons/snow_wraith": {
+    "criteria": {
+      "requirements": "2026-08-04 17:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-08-03 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-07-29 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragon_hunter_weapons/dragon_hunter_tools": {
+    "criteria": {
+      "crossbow": "2026-07-30 22:04:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2026-07-29 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2026-08-01 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2026-08-03 03:40:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2026-08-01 02:06:47 +0000"
+    },
+    "done": true
+  },
+  "alcocraft:mug": {
+    "criteria": {
+      "requirement": "2026-08-04 15:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-07-29 02:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-08-02 16:35:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-29 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-07-29 03:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2026-07-30 20:33:59 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/dragon_collector": {
+    "criteria": {
+      "snow_wraith": "2026-08-04 17:55:48 +0000",
+      "sandwraith": "2026-07-31 17:06:17 +0000",
+      "nightcutter": "2026-07-31 17:32:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-08-01 01:55:01 +0000"
+    },
+    "done": true
+  },
+  "dred_dragons:custom_tab/newberkmod": {
+    "criteria": {
+      "tick": "2026-07-29 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-07-29 03:52:54 +0000",
+      "opened_chest": "2026-07-29 03:32:54 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/strike_collector": {
+    "criteria": {
+      "snow_wraith": "2026-08-04 17:55:48 +0000",
+      "nightcutter": "2026-07-31 17:32:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2026-07-29 03:56:08 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
+    "criteria": {
+      "spawn": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2026-07-29 03:56:03 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/structures/to_the_great_beyond": {
+    "criteria": {
+      "spawn": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/structures/find_hunter_banner_ship": {
+    "criteria": {
+      "in_banner_ship": "2026-07-29 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/tidal": {
+    "criteria": {
+      "sandwraith": "2026-07-31 17:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-07-29 20:36:09 +0000",
+      "minecraft:spider": "2026-07-29 02:45:00 +0000",
+      "minecraft:creeper": "2026-08-01 00:44:52 +0000",
+      "minecraft:cave_spider": "2026-08-01 02:13:12 +0000",
+      "minecraft:silverfish": "2026-08-01 02:18:03 +0000",
+      "minecraft:stray": "2026-08-01 02:21:09 +0000",
+      "minecraft:enderman": "2026-08-04 21:27:48 +0000",
+      "minecraft:zombie": "2026-07-29 02:52:36 +0000",
+      "minecraft:drowned": "2026-07-29 02:47:09 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2026-07-29 20:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-08-02 03:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-08-04 18:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2026-07-30 21:41:30 +0000",
+      "cooked_beef": "2026-08-03 23:50:22 +0000",
+      "baked_potato": "2026-07-29 03:59:24 +0000",
+      "spider_eye": "2026-07-29 03:02:07 +0000",
+      "cooked_cod": "2026-07-29 03:22:42 +0000",
+      "pumpkin_pie": "2026-07-29 19:40:34 +0000",
+      "bread": "2026-07-29 03:57:05 +0000",
+      "rotten_flesh": "2026-07-29 02:56:40 +0000",
+      "salmon": "2026-07-29 03:55:00 +0000",
+      "melon_slice": "2026-07-29 03:19:26 +0000",
+      "golden_carrot": "2026-08-03 22:33:33 +0000",
+      "cod": "2026-07-29 03:13:28 +0000",
+      "cooked_salmon": "2026-08-04 03:45:40 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2026-07-29 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-08-02 03:46:29 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragon_hunter_stall": {
+    "criteria": {
+      "requirement": "2026-08-02 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-07-29 19:40:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2026-08-04 02:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/all_black.png": "2026-08-04 03:46:16 +0000",
+      "textures/entity/cat/calico.png": "2026-07-29 04:16:43 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2026-08-01 02:05:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2026-08-04 15:46:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2026-08-01 01:53:00 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/structures/find_johanns_ship": {
+    "criteria": {
+      "in_ship": "2026-08-03 03:32:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:thunderbrand": {
+    "criteria": {
+      "requirement": "2026-08-04 19:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-07-29 04:07:15 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2026-07-29 03:53:31 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-07-29 20:18:54 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "speed_stinger": "2026-08-04 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-07-29 02:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-07-29 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2026-07-29 03:36:42 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/dragons/nightcutter": {
+    "criteria": {
+      "requirements": "2026-07-31 17:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-07-29 03:27:40 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/strike": {
+    "criteria": {
+      "nightcutter": "2026-07-31 17:32:20 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2026-08-03 03:34:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2026-07-31 14:54:39 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-07-29 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-07-29 03:52:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2026-07-29 02:43:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-08-04 17:13:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2026-07-29 02:50:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2026-07-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/structures/find_hunter_flagship": {
+    "criteria": {
+      "in_flagship": "2026-08-04 21:47:59 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-07-29 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-07-29 04:16:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
